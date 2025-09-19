@@ -1,6 +1,6 @@
 # 🧙‍♀️ Classificador de Nível de Herói
 
-Este é um projeto desenvolvido como parte do desafio da DIO para treinar o uso de variáveis, operadores, laços de repetição e estruturas de decisão em JavaScript.
+Este é um projeto desenvolvido como parte do desafio da DIO para treinar o uso de variáveis, operadores, e estruturas de decisão em JavaScript.
 
 O programa recebe o nome e a quantidade de experiência (XP) de um herói e retorna o nível correspondente de acordo com sua pontuação.
 
